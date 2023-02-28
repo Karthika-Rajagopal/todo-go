@@ -46,3 +46,10 @@ func main() {
 // 	router.POST("/todos", addTodos)
 // 	router.Run("localhost:9090")
 // }
+
+// func main() {
+// 	router := gin.Default()
+// 	router.GET("/todos", getTodos)
+// 	router.POST("/todos", addTodos)
+// 	router.Run("localhost:9090")
+// }
